@@ -19,7 +19,7 @@ The main goal was to predict house prices based on different features, such as s
 
 - **Google Colab Notebook**: The main code used in the project. You can access it here: [Google Colab Notebook Link](#) *(Replace with your Colab link)*
 - **Chat Transcript**: The exported transcript of the conversation where code and explanations were generated using ChatGPT (you need to export it from your interface).
-- **Medium Article**: A detailed report published on Medium summarizing key insights and steps from the project. You can read the article here: [https://medium.com/@yugmmaneshkumar.patel/a-comprehensive-guide-to-house-price-prediction-using-crisp-dm-methodology-eb3f34f26721](https://medium.com/@yugmmaneshkumar.patel/a-comprehensive-guide-to-house-price-prediction-using-crisp-dm-methodology-eb3f34f26721) *(Replace with your Medium article link)*
+- **Medium Article**: A detailed report published on Medium summarizing key insights and steps from the project. You can read the article here: <br/> [https://medium.com/@yugmmaneshkumar.patel/a-comprehensive-guide-to-house-price-prediction-using-crisp-dm-methodology-eb3f34f26721](#)
 
 ---
 
