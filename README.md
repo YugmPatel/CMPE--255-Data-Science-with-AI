@@ -1,5 +1,11 @@
-# CMPE--255-Data-Science-with-AI 
+# CMPE-255-Data-Science-with-AI 
 
+
+Here's an updated version of the **README** that includes placeholders for the links to your **Google Colab notebook** and **Medium article** in the Project Files section. You can update the links once you have them ready.
+
+---
+
+# README - Kaggle House Prices Prediction Project (Assignment 1)
 
 ## Overview
 
@@ -7,18 +13,20 @@ This project involves using the **CRISP-DM** (Cross-Industry Standard Process fo
 
 The main goal was to predict house prices based on different features, such as square footage, location, and quality of construction, using several machine learning models.
 
+---
+
 ## Project Files
 
-- **Colab Notebook**: The main code used in the project, written in Python. [Download the Colab notebook](sandbox:/mnt/data/House_Prices_Prediction_Project.ipynb)
+- **Google Colab Notebook**: The main code used in the project. You can access it here: [Google Colab Notebook Link](#) *(Replace with your Colab link)*
 - **Chat Transcript**: The exported transcript of the conversation where code and explanations were generated using ChatGPT (you need to export it from your interface).
-- **Medium Article**: You will need to create this article on medium.com, selecting relevant sections from the project to present in a well-organized report.
+- **Medium Article**: A detailed report published on Medium summarizing key insights and steps from the project. You can read the article here: [https://medium.com/@yugmmaneshkumar.patel/a-comprehensive-guide-to-house-price-prediction-using-crisp-dm-methodology-eb3f34f26721](#) *(Replace with your Medium article link)*
 
 ---
 
 ## Instructions
 
 ### 1. **Run the Colab Notebook**
-   - Open the provided Colab notebook in Google Colab.
+   - Open the provided Colab notebook using the link above.
    - Follow the steps outlined in the notebook, starting from business understanding, through data understanding and preparation, to modeling and evaluation.
 
 ### 2. **Publish a Medium Article**
@@ -74,7 +82,6 @@ The main goal was to predict house prices based on different features, such as s
 - **SaveGPT**: For exporting the chat transcript.
 
 ---
-
 
 
 ## Acknowledgments
