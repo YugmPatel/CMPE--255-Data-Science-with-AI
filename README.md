@@ -1,12 +1,5 @@
 # CMPE-255-Data-Science-with-AI 
 
-
-Here's an updated version of the **README** that includes placeholders for the links to your **Google Colab notebook** and **Medium article** in the Project Files section. You can update the links once you have them ready.
-
----
-
-# README - Kaggle House Prices Prediction Project (Assignment 1)
-
 ## Overview
 
 This project involves using the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology to predict house prices using the **Kaggle House Prices dataset**. The process was performed using ChatGPT's code interpreter to guide through various stages of a typical data science project, including data exploration, preparation, modeling, evaluation, and deployment.
@@ -17,7 +10,7 @@ The main goal was to predict house prices based on different features, such as s
 
 ## Project Files
 
-- **Google Colab Notebook**: The main code used in the project. You can access it here: [Google Colab Notebook Link](#) *(Replace with your Colab link)*
+- **Google Colab Notebook**: The main code used in the project. You can access it here: <br/> [https://colab.research.google.com/drive/1iaLmMRy39pE0Qx-MjBf2t1XchVP0LI06](#)
 - **Chat Transcript**: The exported transcript of the conversation where code and explanations were generated using ChatGPT (you need to export it from your interface).
 - **Medium Article**: A detailed report published on Medium summarizing key insights and steps from the project. You can read the article here: <br/> [https://medium.com/@yugmmaneshkumar.patel/a-comprehensive-guide-to-house-price-prediction-using-crisp-dm-methodology-eb3f34f26721](#)
 
